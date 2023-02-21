@@ -1,0 +1,19 @@
+input {
+    font-size: 0.8rem;
+    width: 220px
+}
+
+button {
+    font-size: 0.8rem;
+    padding: 5px;
+}
+
+.visible {
+    display: none;
+}
+
+/* .result {
+    padding-top: 10px;
+    width: 100%;
+    text-align: center;
+} */
