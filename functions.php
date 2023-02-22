@@ -2,8 +2,6 @@
 
 function generatePassword($length)
 {
-    $passwordLength = $length;
-
     $characters = "abcdefghijlmnopqrstuvwxyzABCDEFGHIJLMNOPQRSTUVWXYZ0123456789_?*+&%!#@";
     $charactersLength = strlen($characters);
 
